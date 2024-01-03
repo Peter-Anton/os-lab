@@ -1,0 +1,8 @@
+source/:
+total 12
+-rw-rw-r-- 1 hassan hassan    2 Oct 19 22:04 hassan2.txt
+drwxrwxr-x 2 hassan hassan 4096 Oct 17 03:16 hassan3
+-rw-rw-r-- 1 hassan hassan    4 Oct 19 22:02 hassan.txt
+
+source/hassan3:
+total 0
